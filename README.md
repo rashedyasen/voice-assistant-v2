@@ -1,5 +1,12 @@
 # Voice Assistant V2
 
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-CPU--Only-orange)
+![Architecture](https://img.shields.io/badge/Architecture-Multiprocessing%20%7C%20Event--Driven-purple)
+![Inference](https://img.shields.io/badge/Inference-Local%20%7C%20Offline-brightgreen)
+
+
 > **A CPU-first, event-driven, local voice assistant built with a turn-aware multiprocessing architecture for low-latency, interruption-safe interaction.**
 
 ---
