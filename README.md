@@ -243,7 +243,7 @@ Porcupine was chosen intentionally for its unmatched **CPU efficiency, robustnes
 
 ---
 
-### 📚 References & Acknowledgements
+### References & Acknowledgements
 
 This project integrates and builds upon several high-quality open-source models and tools.
 The original authors deserve explicit credit for their work.
@@ -269,12 +269,11 @@ The original authors deserve explicit credit for their work.
   Local LLM runtime used for CPU-based inference and token-level streaming.
   Repository: [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
 
-
 All system-level architecture, orchestration logic, multiprocessing design, streaming paths, and turn-based control were designed and implemented in this project.
 
 ---
 
-### 📖 Citation (Optional)
+### Citation (Optional)
 
 If you use this project in academic or research work, please consider citing the original papers below.
 
@@ -353,7 +352,7 @@ Due to licensing, size, and distribution considerations, users are expected to o
 The inference pipeline, configuration, and integration logic in this project are designed to work with specific ONNX/GGUF model variants.
 
 >Note:
->If you are experimenting with this project and need guidance on compatible model variants or configurations, feel free to reach >out.
+>If you are experimenting with this project and need guidance on compatible model variants or configurations, feel free to reach out.
 
 ---
 
